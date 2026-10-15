@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.virtual_documents/
+outputs/
+anaconda_projects/
+old/
+*.h5
